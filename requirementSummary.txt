@@ -1,0 +1,96 @@
+#######################
+ADMIN PASSWORD: nsc
+#######################
+
+
+BST arrary list located in code line #323
+user currency in code line # 16
+user hex gem array in code line # 18
+
+
+Online Store Term Project Requirements: 
+  1. Number Conversion: @ line 380
+  2. Prime Numbers or Cipher: @ line 423
+  3. Set Theory: @ line 402, 236-250, 224-228
+  4. Permutations/Combinations: @ line 293
+  5. Probability: @ line 263
+  6. Algorithms: @ line 369
+  7. Recursion: @ line 75, 104, 136, 165, 194, 222, 241, 289, 391, 395, 406, 410, 413, 416
+  8. Trees: @ line 333, 494, 499
+  9. Finite State Machines & Graphs: @ line 199
+  10. Stats Scores / Inventory: @ line 245, 343, 350
+  11. Shopping/Interactions: @ line 49, 78, 107, 139, 168, 400
+  12. General: @ line  202, 204, 206, 208, 214, 219, 400
+
+
+Minimum of 6 rooms/menus
+  1. admin menu
+  2. helm armor menu
+  3. body armor menu
+  4. boots armor menu
+  5. Hex gem menu
+  6. weapons menu
+  7. shopping cart menu
+
+Minimum of 3 Battles/Puzzles or Purchases/Interactions
+  1. "Weightless Wiz Robe(+15 int)":116
+  2. "Spider Silk Armor(+17 agi)":199
+  3. "Brachiosaurus Hide Armor(+10 agi)":100
+  4. "Steel of the Sea Armor(+10 str)":202
+  5. "Grill Master Robe(+3 int)":5
+  6."Professor Chaos Helm(+7 str)":62
+  7. "Kinda Okay Helm(+1 int)":10
+  8. "Mysterion Mask(+5 agi)":77
+  9. "Mask of Madness(+4 agi)":56
+  10. "Cast Iron Bowl(1+ str)":3
+  11. "Ludacris Healing Potion":30
+  12. "Ludacris Mana Potion":30
+  13. "Strength Boost Potion":20
+  14. "Agility Boost Potion":20
+  15. "Intelligence Boost Potion":20
+  16. "Sword of 1000 Truths(+20str, +20agi, +20int)":9999
+  17. "Twig Bow(+1 agi)":3
+  18. "Man Bear Pig Claws(+17 agi)":136
+  19. "Vantablack Staff of Magic(+18 int) ":240
+  20. "Goober Sword(+2 str)":12
+  21. "Arctic Bear Boots(+10 str)": 55
+  22. "Gym Shoes(+1 agi)":3
+  23. "Golden Toes Sandle(+6 int)":74
+  24. "Super Cereal Boots(7 str)":82
+  25. "Marty Mcfly Shoes(+10 agi)":93
+  
+Stats/Customer Currency and Inventory	
+  1. code line #350-- generate user currency
+  2. code line #343-- checkout purchases from shopping cart
+  3. code line # 245-- shopping cart
+
+Number Conversion portion
+  1. code line #380-- determines Hex gem value
+
+Prime Numbers/Cipher portion	
+  1. code line #423-- ciphers admin password
+
+Sets usage
+  1. union
+      -code line #402-- view all items for sale in admin menu
+  2. intersection
+      - code line #246-250-- show items in shopping cart
+  3. difference
+      - code line #224-228-- items to upsale
+
+Permutations/Combinations usage
+  1. combinations-- code line #293-- different potion combinations
+
+Probability usage
+  1. code line #263-- chance to win "Sword of 1000 Truths"
+
+Recursion usage
+  1. code line #75, 104, 136, 165, 194, 222, 241, 289, 391, 395, 406, 410, 413, and 416
+
+Binary Search Trees usage
+  1. BST search in code line #297-- guess number to win free checkout
+  2. BST add in code line #494-- admin add to hex gem guess key
+  3. BST delete in code line #499--  admin delete from hex gem guess key
+
+Creation of Finite State Machine
+  1. code line #199-- main menu is a finite state machine
